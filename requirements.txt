@@ -8,4 +8,3 @@ python-docx
 PyMuPDF
 pytesseract
 pillow
-pdf2image
